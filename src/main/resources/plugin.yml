@@ -2,3 +2,6 @@ name: Sample3
 version: '${version}'
 main: plugin.sample3.Main
 api-version: '1.20'
+commands:
+  setLevel:
+  allSetLevel:
